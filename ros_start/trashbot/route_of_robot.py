@@ -60,4 +60,11 @@ class ros_trashbot(object):
     local_keypoint = np.dot(rot, world_keypoint.reshape(3,1))
     local_kx, local_ky = local_keypoint[0, 0], local_keypoint[1, 0]   
     return local_kx ,local_ky
-
+  
+if __name__ == '__main__':
+  rospy.init_node('ROUTE_OF_ROBOT')
+  ros_trashbot = ros_trashbot()
+  try:
+    rospy.spin()
+  except KeyboardInterrupt:
+    pass
