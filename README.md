@@ -3,10 +3,6 @@
 
 ## [DemoMovie1] Google Homeを使ったゴミ箱の操作  
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Yut2F3ufk2o/0.jpg)](http://www.youtube.com/watch?v=Yut2F3ufk2o)  
-## [DemoMovie2] センサーモード  
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/jtZj9VkVd58/0.jpg)](http://www.youtube.com/watch?v=jtZj9VkVd58)  
-## [DemoMovie3] Slack操作モード  
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/mRYCV2uttng/0.jpg)](http://www.youtube.com/watch?v=mRYCV2uttng)  
 ## システム
 GoogleHome→ IFTTT→ slack→ ROS→ RaspberryPi→ Arduino
 
