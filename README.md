@@ -2,10 +2,9 @@
 <img src="https://user-images.githubusercontent.com/45473923/77515062-3f68e480-6ebb-11ea-9940-b3d9d1c65b5c.jpg" width=45%> <img src="https://user-images.githubusercontent.com/45473923/77515204-78a15480-6ebb-11ea-8d40-defbb504d8e0.jpg" width=45%>    
 
 ## [DemoMovie1] Google Homeを使ったゴミ箱の操作  
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Yut2F3ufk2o/0.jpg)](http://www.youtube.com/watch?v=Yut2F3ufk2o)  
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/xtzoYeqc3O0/0.jpg)](http://www.youtube.com/watch?v=xtzoYeqc3O0)  
 ## システム
 GoogleHome→ IFTTT→ slack→ ROS→ RaspberryPi→ Arduino
-![demo](https://s33.aconvert.com/convert/p3r68-cdx67/9xve7-hbk3t.gif)
 ## 環境
 Linux ubuntu16.04  
 ROS kinetic  
