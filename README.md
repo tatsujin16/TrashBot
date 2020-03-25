@@ -13,10 +13,6 @@ RaspberryPi B  [OS:UbuntuMATE]
 * Slackアプリで、オリジナルのslackbotを作成
 * IFTTTでMy Appletを作成し、GoogleHomeとslackをIFTTT経由で接続
 * 下記のwebページを参考にPythonのslackbotライブラリをubuntuにインストール
-* 実行ファイルは、/usr/local/lib/python2.7/dist-packages/slackbotの中にrun.pyを作成  
-(vimの保存コマンドは、:w !sudo tee %)
-* /usr/local/lib/python2.7/dist-packages/slackbotの中にslackbot_settings.pyを作成し、  
-オリジナルのslackbotのAPIトークンを書き込む
 * ubuntuとRaspberryPiはssh接続で、rosserial(ROSの通信パッケージ)を使用してロボット側とPC側がデータを送受信
 
 
@@ -35,6 +31,3 @@ https://qiita.com/KSxRDevelop/items/4aff0f1856c0c200c1a0
 Azriton's blog「PythonのslackbotライブラリでSlackボットを作る」(2016年12月17日更新)  
 https://qiita.com/sukesuke/items/1ac92251def87357fdf6  
   [GitHub] https://github.com/lins05/slackbot   
-
-Autumn-Color.com「Pythonでファイルをオープンしてから２次元配列で返すモジュール」(2017年1月5日更新)  
-https://www.autumn-color.com/archives/509  
