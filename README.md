@@ -1,5 +1,5 @@
 # TrashBot
-<img src="https://user-images.githubusercontent.com/45473923/59561834-b1c0b480-905f-11e9-84ee-f94e76e47afc.jpg" width=45%> <img src="https://user-images.githubusercontent.com/45473923/59561968-42e45b00-9061-11e9-8ad9-93dd3e409b4a.jpg" width=45%>    
+<img src="https://user-images.githubusercontent.com/45473923/77515062-3f68e480-6ebb-11ea-9940-b3d9d1c65b5c.jpg" width=45%> <img src="https://user-images.githubusercontent.com/45473923/77515204-78a15480-6ebb-11ea-8d40-defbb504d8e0.jpg" width=45%>    
 
 ## [DemoMovie1] Google Homeを使ったゴミ箱の操作  
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Yut2F3ufk2o/0.jpg)](http://www.youtube.com/watch?v=Yut2F3ufk2o)  
