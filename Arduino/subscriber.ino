@@ -118,7 +118,6 @@ void Close(){
         lid_opener.write(lid_angle);
         Timer(20);
   }
-  //lid_opener.write(close_angle); //パタッと閉める
 }
 
 void LoadCell() {
