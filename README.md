@@ -2,6 +2,7 @@
 <img src="https://user-images.githubusercontent.com/45473923/77515062-3f68e480-6ebb-11ea-9940-b3d9d1c65b5c.jpg" width=45%> <img src="https://user-images.githubusercontent.com/45473923/77515204-78a15480-6ebb-11ea-8d40-defbb504d8e0.jpg" width=45%>  
 
 # Robot Overview
+<img src="https://user-images.githubusercontent.com/45473923/78958526-374bae80-7b23-11ea-9ee6-f56fe79a21de.jpg" width=30%> <img src="https://user-images.githubusercontent.com/45473923/78959045-bb526600-7b24-11ea-926c-d47baee5b0de.jpg" width=30%> <img src="https://user-images.githubusercontent.com/45473923/78959057-c4433780-7b24-11ea-83cb-6cdfa38d5f59.jpg" width=30%> 
 
 # Smart Home
 <img src="https://user-images.githubusercontent.com/45473923/78908121-9aeec100-7abc-11ea-971d-9fd3ff177858.png" width=80%>
