@@ -10,14 +10,8 @@
 # Smart Home
 <img src="https://user-images.githubusercontent.com/45473923/78908121-9aeec100-7abc-11ea-971d-9fd3ff177858.png" width=80%>
 
-# method
-<img src="https://user-images.githubusercontent.com/45473923/78959364-b2ae5f80-7b25-11ea-97bc-82f746f46904.png" width=45%> <img src="https://user-images.githubusercontent.com/45473923/78959372-b9d56d80-7b25-11ea-9b25-4f2a1c098a46.png" width=45%>
-
 # voice control
 <img src="https://user-images.githubusercontent.com/45473923/78961691-4f283000-7b2d-11ea-8d56-19393890b61a.PNG" width=80%>
-
-# voice control 2
-<img src="https://user-images.githubusercontent.com/45473923/78962364-feb1d200-7b2e-11ea-916e-86412cedafbd.png" width=30%> <img src="https://user-images.githubusercontent.com/45473923/78962446-125d3880-7b2f-11ea-9532-8561210ec98c.jpg" width=30%> <img src="https://user-images.githubusercontent.com/45473923/78962459-22751800-7b2f-11ea-8d95-4a47ecb94273.png" width=30%> 
 
 # System OverView
 <img src="https://user-images.githubusercontent.com/45473923/78907860-39c6ed80-7abc-11ea-8537-0f150055defa.PNG" width=80%>
