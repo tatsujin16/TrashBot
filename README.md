@@ -7,7 +7,7 @@
 # jetson tx2
 <img src="https://user-images.githubusercontent.com/45473923/78962638-af1fd600-7b2f-11ea-9034-4c745c0b5cde.jpg" width=45%>
 
-# Smart Home
+# Smart Home Environment
 <img src="https://user-images.githubusercontent.com/45473923/78908121-9aeec100-7abc-11ea-971d-9fd3ff177858.png" width=80%>
 
 # voice control
