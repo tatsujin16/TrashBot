@@ -16,10 +16,10 @@
 # System OverView
 <img src="https://user-images.githubusercontent.com/45473923/78907860-39c6ed80-7abc-11ea-8537-0f150055defa.PNG" width=80%>
 
-# area
+# Semicircle Area
 <img src="https://user-images.githubusercontent.com/45473923/78907355-8bbb4380-7abb-11ea-99a8-8bd49760954a.png" width=45%>
 
-## [DemoMovie1] Google Homeを使ったゴミ箱の操作  
+## Demo Movie  
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/xtzoYeqc3O0/0.jpg)](http://www.youtube.com/watch?v=xtzoYeqc3O0) 
 
 ## システム
