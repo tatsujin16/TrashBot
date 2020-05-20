@@ -3,8 +3,9 @@
 
 <br>
 
-# Circuit and Control Board
-<img src="https://user-images.githubusercontent.com/45473923/78958526-374bae80-7b23-11ea-9ee6-f56fe79a21de.jpg" width=30%> <img src="https://user-images.githubusercontent.com/45473923/78959045-bb526600-7b24-11ea-926c-d47baee5b0de.jpg" width=30%> <img src="https://user-images.githubusercontent.com/45473923/78959057-c4433780-7b24-11ea-83cb-6cdfa38d5f59.jpg" width=30%> 
+# Circuit and computer
+<img src="https://user-images.githubusercontent.com/45473923/78958526-374bae80-7b23-11ea-9ee6-f56fe79a21de.jpg" width=30%> 
+<img src="https://user-images.githubusercontent.com/45473923/78962638-af1fd600-7b2f-11ea-9034-4c745c0b5cde.jpg" width=20%>
 
 <br>
 
