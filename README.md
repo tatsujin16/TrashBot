@@ -9,7 +9,7 @@
 <br>
 
 # System Computer [Jetson tx2]
-<img src="https://user-images.githubusercontent.com/45473923/78962638-af1fd600-7b2f-11ea-9034-4c745c0b5cde.jpg" width=45%>
+<img src="https://user-images.githubusercontent.com/45473923/78962638-af1fd600-7b2f-11ea-9034-4c745c0b5cde.jpg" width=20%>
 
 <br>
 
