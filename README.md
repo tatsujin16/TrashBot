@@ -3,18 +3,8 @@
 
 <br>
 
-### Circuit and computer(Jetson TX2)
-<img src="https://user-images.githubusercontent.com/45473923/78958526-374bae80-7b23-11ea-9ee6-f56fe79a21de.jpg" width=30%> <img src="https://user-images.githubusercontent.com/45473923/78962638-af1fd600-7b2f-11ea-9034-4c745c0b5cde.jpg" width=30%>
-
-<br>
-
-### Smart Home Environment
+## Smart Home Environment
 <img src="https://user-images.githubusercontent.com/45473923/78908121-9aeec100-7abc-11ea-971d-9fd3ff177858.png" width=70%>
-
-<br>
-
-### voice control
-<img src="https://user-images.githubusercontent.com/45473923/78961691-4f283000-7b2d-11ea-8d56-19393890b61a.PNG" width=50%>
 
 <br>
 
@@ -23,8 +13,13 @@
 
 <br>
 
-# Semicircle Area
-<img src="https://user-images.githubusercontent.com/45473923/78907355-8bbb4380-7abb-11ea-99a8-8bd49760954a.png" width=45%>
+## voice control
+<img src="https://user-images.githubusercontent.com/45473923/78961691-4f283000-7b2d-11ea-8d56-19393890b61a.PNG" width=50%>
+
+<br>
+
+## Circuit and computer(Jetson TX2)
+<img src="https://user-images.githubusercontent.com/45473923/78958526-374bae80-7b23-11ea-9ee6-f56fe79a21de.jpg" width=30%> <img src="https://user-images.githubusercontent.com/45473923/78962638-af1fd600-7b2f-11ea-9034-4c745c0b5cde.jpg" width=30%>
 
 <br>
 
