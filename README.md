@@ -1,5 +1,5 @@
 # TrashBot
-<img src="https://user-images.githubusercontent.com/45473923/77515062-3f68e480-6ebb-11ea-9940-b3d9d1c65b5c.jpg" width=45%> <img src="https://user-images.githubusercontent.com/45473923/77515204-78a15480-6ebb-11ea-8d40-defbb504d8e0.jpg" width=45%>  
+<img src="https://user-images.githubusercontent.com/45473923/77515062-3f68e480-6ebb-11ea-9940-b3d9d1c65b5c.jpg" width=40%> <img src="https://user-images.githubusercontent.com/45473923/77515204-78a15480-6ebb-11ea-8d40-defbb504d8e0.jpg" width=40%>  
 
 <br>
 
@@ -13,13 +13,13 @@
 
 <br>
 
-## voice control
+## Voice Control
 <img src="https://user-images.githubusercontent.com/45473923/78961691-4f283000-7b2d-11ea-8d56-19393890b61a.PNG" width=50%>
 
 <br>
 
-## Circuit and computer(Jetson TX2)
-<img src="https://user-images.githubusercontent.com/45473923/78958526-374bae80-7b23-11ea-9ee6-f56fe79a21de.jpg" width=30%> <img src="https://user-images.githubusercontent.com/45473923/78962638-af1fd600-7b2f-11ea-9034-4c745c0b5cde.jpg" width=30%>
+## Circuit and Computer Board(Jetson TX2)
+<img src="https://user-images.githubusercontent.com/45473923/78958526-374bae80-7b23-11ea-9ee6-f56fe79a21de.jpg" width=25%> <img src="https://user-images.githubusercontent.com/45473923/78962638-af1fd600-7b2f-11ea-9034-4c745c0b5cde.jpg" width=25%>
 
 <br>
 
